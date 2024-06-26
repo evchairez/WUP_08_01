@@ -90,8 +90,8 @@ Adjusted R-squared:   0.69 RSE: 67.81
 Headwth  
 Adjusted R-squared:  0.6064  RSE: 76.41
 
-
-
+Age  
+Adjusted R-squared:  0.5526 RSE: 81.47 
 
 
 
