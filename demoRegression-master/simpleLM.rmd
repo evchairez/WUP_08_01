@@ -27,7 +27,36 @@ abline(simp)
 summary.lm(simp)
 ```
   
-Adjusted R-squared: 0.87 RSE: 43.91
+Chest Chart  
+
+```{r}
+simp <- lm(WEIGHT~CHEST,data=bears)
+plot(WEIGHT~CHEST,data=bears)
+abline(simp)
+summary.lm(simp)
+```
+
+
+
+
 
 ## Compare all models that predict WEIGHT other than NECK. Then order them from worst to best by its value of Adjusted-Rsquared (bigger is better), or by RSE (residual standard error) where smaller is better. 
+
+Chest  
+Adjusted R-Squared: 0.9262 RSE: 33.08
+  
+Weight  
+Adjusted R-Squared: 0.87 RSE: 43.91 
+
+
+
+
+
+
+
+
+
+
+
+
 
