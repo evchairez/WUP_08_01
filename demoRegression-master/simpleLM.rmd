@@ -65,7 +65,8 @@ Adjusted R-Squared: 0.87 RSE: 43.91
 Length  
 Adjusted R-squared:  0.7423 RSE:61.83
 
-
+Headwth  
+Adjusted R-squared:  0.6064  RSE: 76.41
 
 
 
